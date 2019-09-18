@@ -45,7 +45,7 @@ namespace TrueCoders
             person4.Age = "16";
 
 
-            List<People> TrueCoders = new List<People>();    // comment means nada
+            List<People> TrueCoders = new List<People>();    
             TrueCoders.Add(person1);
             TrueCoders.Add(person2);
             TrueCoders.Add(person3);
